@@ -6,3 +6,5 @@ app/api/api_v1/endpoints/__pycache__/
 app/db/__pycache__/
 sqlitedb.db
 venv/
+.DS_Store
+app/.DS_Store
