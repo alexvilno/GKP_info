@@ -8,3 +8,4 @@ sqlitedb.db
 venv/
 .DS_Store
 app/.DS_Store
+app/db_models/__pycache__
